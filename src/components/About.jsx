@@ -178,7 +178,7 @@ export default function About({ darkMode }) {
               Get In Touch
             </a>
             <a
-              href="/c:\Users\Faisal\Downloads\My Resume.pdf"
+              href=""
               target="_blank"
               className={`px-6 py-3 rounded-full border font-semibold transition duration-300 ${
                 darkMode
